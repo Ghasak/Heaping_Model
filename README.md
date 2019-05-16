@@ -10,7 +10,10 @@ While the file location is at:
 
 ## Project Results
 The restuls here is based on the R-Script, SQL and STATA
-![]()
+![](https://github.com/Ghasak/Heaping_Model/blob/master/%5B0%5D%20All_Individual_Dataset/Rplot.jpeg)
+![](https://github.com/Ghasak/Heaping_Model/blob/master/%5B0%5D%20All_Individual_Dataset/Rplot01.jpeg)
+![](https://github.com/Ghasak/Heaping_Model/blob/master/%5B0%5D%20All_Individual_Dataset/Rplot02.jpeg)
+![](https://github.com/Ghasak/Heaping_Model/blob/master/%5B0%5D%20All_Individual_Dataset/Rplot03.jpeg)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.

@@ -6,3 +6,7 @@
 *.db
 *.csv
 *.docx
+*.xlsx
+*.dta
+*.pptx
+
