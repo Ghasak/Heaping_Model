@@ -24,7 +24,7 @@ Similar to the other configurations, we will add more features to our current R 
 
 
 ## Prerequisites
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them:
 
 ```
 R up and running -version version 3.5.2 (2018-12-20) or later "Eggshell Igloo"
@@ -32,11 +32,7 @@ Copyright (C) 2018 The R Foundation for Statistical Computing
 Platform: x86_64-apple-darwin15.6.0 (64-bit)
 ```
 to see your mylife.db you will need to install SQLite Studio.
-## Python Version
 
-I have used Python3.7 Anaconda.
-See the results:
-![]()
 ## Authors
 
 * **Ghasak Ibrahim** - *Initial work* -
@@ -48,15 +44,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Inspiration
 following this project from:
-* [1] (https://www.youtube.com/watch?v=Siyg1Wn5VDs&list=PLQVvvaa0QuDfWjcDi0GB1AsAuSCAb_JoX&index=1&frags=pl%2Cwn)
+My Original thoughts.
 
 ## To add some keyboard keys use:
 <kbd>Ctrl</kbd>
 ## Adding more features:
 ## Requirements
-Python 3.x <br />
+R 0.x <br />
 Packages: see **requirements.txt** <br />
 ## Instructions
 1. Install all required packages
 2. Modify parameters if desired
-3. Run **folder/script.py**
+3. Run **folder/script.R**
